@@ -4,7 +4,11 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            MySqliteTools.CreateDatabase();
+
+            DateOnly mydate = new DateOnly(1994, 11, 2);
+
+            MySqliteTools.UpdateToDatabase(mydate, 1);
         }
     }
 }

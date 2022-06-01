@@ -2,7 +2,7 @@
   "profiles": {
     "HabitTracker": {
       "commandName": "Project",
-      "workingDirectory": "C:\\Users\\rhysm\\source\\repos\\HabitTracker\\HabitTracker.sln"
+      "workingDirectory": "C:\\Users\\rhysm\\source\\repos\\HabitTracker\\HabitTracker"
     }
   }
 }
